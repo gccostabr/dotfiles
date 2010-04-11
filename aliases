@@ -10,6 +10,7 @@ alias tlog='tail -f log/development.log'
 
 # Git Aliases
 alias gpm='git push origin master'
-
+alias gs='git status'
+alias gc='git commit -m '
 
 
