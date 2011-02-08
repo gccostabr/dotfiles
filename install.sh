@@ -11,7 +11,7 @@ function setFileInPlace
     mv $1 $1.old
   fi
   echo "Linking $2 to $1..."
-  ln -s $2 $1
+  ln -s $PWD/$2 $1
 
 }
 
