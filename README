@@ -6,6 +6,6 @@ After git clone, call ./install.sh to put all files in place.
 It will rename any file you already have to $1.old or it will remove any symbolic link to the files.
 All files will be linked from this project to the targets, so any change will be applied as soon as you :wq!
 
-All suggestions are welcome!
+Have better ideas? Share them with me!
 
 
