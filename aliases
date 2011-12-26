@@ -1,5 +1,6 @@
 #!/bin/bash
 
+alias clear_dns_cache='dscacheutil -flushcache'
 
 # Rails Aliases
 alias ss='script/server'
