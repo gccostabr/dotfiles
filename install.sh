@@ -18,6 +18,8 @@ function setFileInPlace
 setFileInPlace ~/.gitconfig gitconfig
 setFileInPlace ~/.bash_profile bash_profile
 setFileInPlace ~/.vimrc vimrc
+setFileInPlace ~/.pryrc pryrc
+
 
 echo
 echo
