@@ -1,5 +1,6 @@
 [user]
-	email = gccostabr@gmail.com
+  email = gccostabr@gmail.com
+  name = Guilherme Costa
 
 [color]
   ui = auto
@@ -16,7 +17,6 @@
   added = yellow
   changed = green
   untracked = cyan
-
 
 [color]
   ui = true
@@ -35,7 +35,4 @@
   lol = log --graph --decorate --pretty=oneline --abbrev-commit
   lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
   ls = ls-files
-
-
-
 
